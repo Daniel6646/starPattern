@@ -22,3 +22,9 @@ public class StarPattern11 {
 	}
 	
 }
+
+
+     *
+    * *
+   * * *
+  * * * *

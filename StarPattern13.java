@@ -35,3 +35,9 @@ public class StarPattern13 {
 
 	}
 }
+
+ *******
+  *****
+   ***
+    *
+

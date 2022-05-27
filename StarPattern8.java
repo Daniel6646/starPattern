@@ -40,3 +40,14 @@ public class StarPattern8 {
 
 	}	
 }
+
+
+
+   *
+  **
+ ***
+****
+ ****
+  ***
+   **
+    *
